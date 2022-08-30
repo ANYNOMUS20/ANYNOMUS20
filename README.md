@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ANYNOMUS20
-- 👀 I’m interested in ... playing games and developing vr games. 
-- 🌱 I’m currently learning ...database and vr development and pc game development.
+- 👋 Hi, I’m @Roshanvarma22
+- 👀 I’m interested in ... playing games and developing mobile and vr games.
 - 💞️ I’m looking to collaborate on ...vr games.
 - 📫 How to reach me ...roshanvarmagopu@gmail.com
 
